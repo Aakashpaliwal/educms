@@ -82,13 +82,13 @@ class Sidebar extends Component {
                             </ul>
                         </li>
 
-                              <li>
+                              {/* <li>
                          <a className="has-arrow waves-effect waves-dark" href="#service" data-toggle="collapse" data-target="#service"><i className="fa fa-cog" aria-hidden="true"></i><span className="hide-menu">Services</span></a>
                             <ul aria-expanded="false" className="collapse" id="service">
                             <Link to ="/AddServices"><li><i className="fa fa-plus-circle" aria-hidden="true"></i>&nbsp;&nbsp;Add Services</li></Link>
-                            {/* <Link to ="/ViewAdmin"><li><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;View Admin</li></Link>    */}
+                            <Link to ="/ViewAdmin"><li><i className="fa fa-eye" aria-hidden="true"></i>&nbsp;&nbsp;View Admin</li></Link>   
                             </ul>
-                        </li>
+                        </li> */}
 
 
                          <li>
